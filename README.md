@@ -1,4 +1,4 @@
-# TUGAS KECERDASAN BUATAN (AI).
+# TUGAS BESAR KECERDASAN BUATAN (AI).
 
 Nama  : Agym Mahaputra Romy Barlianta <br>
 NIM   : F55121076 <br>
